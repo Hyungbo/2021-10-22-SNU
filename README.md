@@ -10,7 +10,7 @@ English is used throughout the workshop.
 # Invited speakers
 
 
-| <img src="{{site.baseurl}}/image/Steve4smallCroppedJPG.jpg" height="200"> | | <img src="/image/claudio_low.jpg" height="200"> | 
+| <img src="{{site.baseurl}}/image/Steve4smallCroppedJPG.jpg" height="200"> | | <img src="{{site.baseurl}}/image/claudio_low.jpg" height="200"> | 
 | :-: | :-: | :-: |
 | Steven L. Brunton <br /> (University of Washington, USA) | Zhan Li <br /> (Harbin Institute of Technology, China) | Claudio de Persis <br /> (University of Groningen, Netherlands) |
 
@@ -62,8 +62,8 @@ Chair: Prof. Hyungbo Shim (SNU)
 
 # Support
 
-<img src="/logo-bk21it.png" height="60">
+<img src="{{site.baseurl}}/logo-bk21it.png" height="60">
 
-<img src="/NML.jfif" height="60"> &emsp; <img src="/RLLAB.jpg" height="60"> &emsp; <img src="/CDSL.jpg" height="60">
+<img src="{{site.baseurl}}/NML.jfif" height="60"> &emsp; <img src="{{site.baseurl}}/RLLAB.jpg" height="60"> &emsp; <img src="{{site.baseurl}}/CDSL.jpg" height="60">
 
 
