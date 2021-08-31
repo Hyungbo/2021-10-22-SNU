@@ -10,7 +10,7 @@ English is used throughout the workshop.
 # Invited speakers
 
 
-| <img src="/image/Steve4smallCroppedJPG.jpg" height="200"> | | <img src="/image/claudio_low.jpg" height="200"> | 
+| <img src="{{site.baseurl}}/image/Steve4smallCroppedJPG.jpg" height="200"> | | <img src="/image/claudio_low.jpg" height="200"> | 
 | :-: | :-: | :-: |
 | Steven L. Brunton <br /> (University of Washington, USA) | Zhan Li <br /> (Harbin Institute of Technology, China) | Claudio de Persis <br /> (University of Groningen, Netherlands) |
 
