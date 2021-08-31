@@ -38,7 +38,7 @@ Chair: Prof. Songhwai Oh (SNU)
  TBA
  
 - 13:00 ~ 13:55 **Prof. Steven L. Brunton** (University of Washington, USA)  
- [Machine Learning for Sparse Nonlinear Modeling and Control](@/audience.md)
+ [Machine Learning for Sparse Nonlinear Modeling and Control](/invited1.md)
 
 ## Session 2
 Chair: Prof. Dong-il Dan Cho (SNU)
@@ -50,7 +50,7 @@ Chair: Prof. Dong-il Dan Cho (SNU)
  Plug-and-Play Distributed Control for Linear Muliti-Channel Systems
  
 - 15:00 ~ 15:55 **Prof. Zhan Li** (Harbin Institute of Technology, China)  
- High Precision Robust Control for Linear Motor Driven Gantry Stage via B-Spline Wavelet Neural Networks Identification
+ [High Precision Robust Control for Linear Motor Driven Gantry Stage via B-Spline Wavelet Neural Networks Identification](/invited2.md)
  
 ## Session 3
 Chair: Prof. Hyungbo Shim (SNU)
@@ -62,7 +62,7 @@ Chair: Prof. Hyungbo Shim (SNU)
  EKF-Based Localization and Slip Estimation of Field Robot in Harsh Environment
  
 - 17:00 ~ 17:55 **Prof. Claudio de Persis** (University of Groningen, Netherlands)  
- Formulas for Data-driven Control
+ [Formulas for Data-driven Control](/invited3.md)
  
 - 17:55 ~ 18:00 **Prof. Dong-il Dan Cho** (SNU)  
  Closing Remark
@@ -73,5 +73,19 @@ Chair: Prof. Hyungbo Shim (SNU)
 <img src="{{site.baseurl}}/image/logo-bk21it.png" height="60">
 
 <img src="{{site.baseurl}}/image/NML.jfif" height="60"> &emsp; <img src="{{site.baseurl}}/image/RLLAB.jpg" height="60"> &emsp; <img src="{{site.baseurl}}/image/CDSL.jpg" height="60">
+
+
+# Zoometiquette
+
+Please help us to keep our meetings productive and professional, and kindly follow these simple virtual meeting etiquette rules and tips.
+
+## "Rules" for Zoom meeting participants:
+- Join early – up to 2 minutes before the meeting start time. There will be a waiting room and the host will let you in.
+- Enter Zoom with your full name (first and last name).
+- Make sure that you mute your microphone (at the beginning of the meeting all participants are automatically muted. Only unmute yourself if you are asked to speak).
+- To help keep background noise to a minimum, make sure you mute your microphone when you are not speaking. Be mindful of background noise. When your microphone is not muted, avoid activities that could create additional noise, such as shuffling papers or typing.
+- If you have a question: write your question in the chat or raise your hand.
+- Please switch off your Webcam most of time, and turn on when you speak.
+- Please note that the meeting organizers reserve the right to mute/deactivate microphones and cameras of participants without warning, and to change the names of the participants for any reason they deem necessary.
 
 
