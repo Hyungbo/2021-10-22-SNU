@@ -1,30 +1,34 @@
 
 # Date and Time
 
-October 22, 2021 / 12:00 ~ 18:00 Korean Standard Time
+October 22, 2021 / 12:00 ~ 18:00 Korean Standard Time ([Convert this time to your timezone](https://arewemeetingyet.com/Seoul/2021-10-22/12:00))
 
 # Format
 
 This is an one-day online workshop, dedicated to control and AI fields. 
 English is used throughout the workshop.
 
-# Invited speakers
+# Zoom link
 
+https://snu-ac-kr.zoom.us/j/87827307868
+
+Passwords are required, which will be sent to the registered audience.
+
+# Registration
+
+Registration is free. 
+
+
+# Invited speakers
 
 | <img src="{{site.baseurl}}/image/Steve4smallCroppedJPG.jpg" height="200"> | | <img src="{{site.baseurl}}/image/claudio_low.jpg" height="200"> | 
 | :-: | :-: | :-: |
 | Steven L. Brunton <br /> (University of Washington, USA) | Zhan Li <br /> (Harbin Institute of Technology, China) | Claudio de Persis <br /> (University of Groningen, Netherlands) |
 
-
-
-# Registration
-
-
 # Schedule
 
-All times are in **Korean Standard Time (KST)**. (FYI, KST does not have daylight savings.) ([Convert 9:00 to
-your timezone](https://arewemeetingyet.com/Stockholm/2021-05-10/09:00))
-The schedule includes frequent breaks.
+All times are in **Korean Standard Time (KST)**. (FYI, KST does not have daylight savings.) 
+Detailed abstract and the biography of the speaker are linked from the title of the talk.
 
 ## Session 1
 Chair: Prof. Songhwai Oh (SNU)
