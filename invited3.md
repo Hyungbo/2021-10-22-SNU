@@ -6,7 +6,7 @@ Claudio de Persis (University of Groningen, Netherlands)
 
 # Abstract
 
-TBA
+The talk presents some methods to design feedback controllers using low-complexity data collected from dynamical systems excited by persistently exciting inputs. The design is based on the solution of formulas expressed via data-dependent semidefinite programs. The methods provide formal guarantees on the correctness and robustness of the controllers.
 
 # Biography
 
