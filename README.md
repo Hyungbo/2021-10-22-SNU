@@ -46,11 +46,11 @@ Chair: Prof. Songhwai Oh (SNU)
  
 - 12:05 ~ 12:30  
  **Nuri Kim** (SNU)  
- TBA
+ Object-Based Visual Navigation
  
 - 12:30 ~ 12:55  
  **Gunmin Lee** (SNU)  
- TBA
+ Towards Defensive Autonomous Driving: Collecting and Probing Driving Demonstrations of Mixed Qualities
  
 - 13:00 ~ 13:55  
  **Prof. Steven L. Brunton** (University of Washington, USA)  
