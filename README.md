@@ -21,7 +21,7 @@ Registration is free.
 
 # Invited speakers
 
-| <img src="{{site.baseurl}}/image/Steve4smallCroppedJPG.jpg" height="200"> | | <img src="{{site.baseurl}}/image/claudio_low.jpg" height="200"> | 
+| <img src="{{site.baseurl}}/image/Steve4smallCroppedJPG.jpg" height="200"> | <img src="{{site.baseurl}}/image/Li.jpeg" height="200"> | <img src="{{site.baseurl}}/image/claudio_low.jpg" height="200"> | 
 | :-: | :-: | :-: |
 | Steven L. Brunton <br /> (University of Washington, USA) | Zhan Li <br /> (Harbin Institute of Technology, China) | Claudio de Persis <br /> (University of Groningen, Netherlands) |
 
@@ -29,6 +29,13 @@ Registration is free.
 
 All times are in **Korean Standard Time (KST)**. (FYI, KST does not have daylight savings.) 
 Detailed abstract and the biography of the speaker are linked from the title of the talk.
+
+## VOD poster session
+
+- 10:00 ~ 12:00  
+  **Hamin Chang** (SNU) TBA  (link)  
+  **TBD** (SNU) TBA  (link)  
+  **TBD** (SNU) TBA  (link)  
 
 ## Session 1
 Chair: Prof. Songhwai Oh (SNU)
