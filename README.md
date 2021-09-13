@@ -37,7 +37,7 @@ Detailed abstract and the biography of the speaker are linked from the title of 
   Gaussian process regression of dynamical systems  
   (video link = TBA)  
   
-  **Soojeong Hyeon** (SNU)	 
+  **Soojeong Hyeon** (SNU)  
   Distributed orientation estimation in SO(n) with local position measurements  
   (video link = TBA)  
   
@@ -73,7 +73,7 @@ Chair: Prof. Dong-il Dan Cho (SNU)
  
 - 14:30 ~ 14:55  
  **Taekyoo Kim** (SNU)  
- Plug-and-Play Distributed Control for Linear Muliti-Channel Systems
+ Plug-and-Play Distributed Control for Linear Multi-Channel Systems
  
 - 15:00 ~ 15:55  
  **Prof. Zhan Li** (Harbin Institute of Technology, China)  
