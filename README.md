@@ -10,7 +10,7 @@ English is used throughout the workshop.
 
 # Zoom link
 
-https://snu-ac-kr.zoom.us/j/87827307868
+[https://snu-ac-kr.zoom.us/j/87827307868](https://snu-ac-kr.zoom.us/j/87827307868)
 
 Passwords are required, which will be sent to the registered audience.
 
