@@ -16,7 +16,7 @@ Passwords are required, which will be sent to the registered audience.
 
 # Registration
 
-Registration is free. 
+Registration is free but kindly asked. Simply fill out the form please by [clicking here](https://docs.google.com/forms/d/e/1FAIpQLSdvDSo2zXgGVEOlqz3kW3DG5WVRPVUBpnJNx5Isp_im8yIVCw/viewform?usp=sf_link)!
 
 
 # Invited speakers
