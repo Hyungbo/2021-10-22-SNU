@@ -58,7 +58,7 @@ Chair: Prof. Songhwai Oh (SNU)
  **Gunmin Lee** (SNU)  
  Towards Defensive Autonomous Driving: Collecting and Probing Driving Demonstrations of Mixed Qualities
  
-- 13:00 ~ 13:55  
+- 13:00 ~ 13:55  INVITED TALK  
  **Prof. Steven L. Brunton** (University of Washington, USA)  
  [Machine Learning for Sparse Nonlinear Modeling and Control](/invited1.md)
 
@@ -73,7 +73,7 @@ Chair: Prof. Dong-il Dan Cho (SNU)
  **Taekyoo Kim** (SNU)  
  Plug-and-Play Distributed Control for Linear Multi-Channel Systems
  
-- 15:00 ~ 15:55  
+- 15:00 ~ 15:55  INVITED TALK  
  **Prof. Zhan Li** (Harbin Institute of Technology, China)  
  [High Precision Robust Control for Linear Motor Driven Gantry Stage via B-Spline Wavelet Neural Networks Identification](/invited2.md)
  
@@ -88,7 +88,7 @@ Chair: Prof. Hyungbo Shim (SNU)
  **Chulhong Kim** (SNU)  
  EKF-Based Localization and Slip Estimation of Field Robot in Harsh Environment
  
-- 17:00 ~ 17:55  
+- 17:00 ~ 17:55  INVITED TALK  
  **Prof. Claudio de Persis** (University of Groningen, Netherlands)  
  [Formulas for Data-driven Control](/invited3.md)
  
