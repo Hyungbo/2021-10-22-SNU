@@ -104,7 +104,7 @@ Chair: Prof. Hyungbo Shim (SNU)
 
 <img src="{{site.baseurl}}/image/logo-bk21it.png" height="60">
 
-<img src="{{site.baseurl}}/image/NML.jfif" height="60"> &emsp; <img src="{{site.baseurl}}/image/RLLAB.jpg" height="60"> &emsp; <img src="{{site.baseurl}}/image/CDSL.jpg" height="60">
+<img src="{{site.baseurl}}/image/NML.jfif" height="60"> &emsp; <img src="{{site.baseurl}}/image/RLLAB.jpg" height="60"> &emsp; <a href=https://naver.com><img src="{{site.baseurl}}/image/CDSL.jpg" height="60"></a>
 
 
 # Zoometiquette
