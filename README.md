@@ -12,6 +12,8 @@ English is used throughout the workshop.
 
 [https://snu-ac-kr.zoom.us/j/87827307868](https://snu-ac-kr.zoom.us/j/87827307868)
 
+(Opening the above link in a new tab, using the right click of your mouse, will make this page remain in the browser for your convenience.)
+
 # Registration
 
 Registration is free. Simply fill out the form by [clicking here](https://docs.google.com/forms/d/e/1FAIpQLSdvDSo2zXgGVEOlqz3kW3DG5WVRPVUBpnJNx5Isp_im8yIVCw/viewform?usp=sf_link)!
