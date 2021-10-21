@@ -77,7 +77,8 @@ Chair: Prof. Dong-il Dan Cho (SNU)
  
 - 15:00 ~ 15:55  INVITED TALK  
  **Prof. Zhan Li** (Harbin Institute of Technology, China)  
- [High Precision Robust Control for Linear Motor Driven Gantry Stage via B-Spline Wavelet Neural Networks Identification](/invited2.md)
+ ~~High Precision Robust Control for Linear Motor Driven Gantry Stage via B-Spline Wavelet Neural Networks Identification~~  
+ [Reinforcement Learning in UAV Control Problems – An Introduction](/invited2.md)
  
 ## Session 3
 Chair: Prof. Hyungbo Shim (SNU)
