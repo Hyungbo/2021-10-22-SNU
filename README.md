@@ -32,7 +32,7 @@ Detailed abstract and the biography of the speaker are linked from the title of 
 
 ## VOD poster session
 
-- 10:00 ~ 12:00  
+- 10:00 ~ 12:00  (Visit the Zoom room if you want to meet the speakers.)  
 
   **Jeong Mo Seong** (SNU)  
   Distributed quantile solver with plug-and-play operation  
