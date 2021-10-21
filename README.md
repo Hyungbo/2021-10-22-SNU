@@ -1,7 +1,7 @@
 
 # Date and Time
 
-October 22, 2021 / 10:00 ~ 18:00 Korean Standard Time ([Convert this time to your timezone](https://arewemeetingyet.com/Seoul/2021-10-22/12:00))
+October 22, 2021 / 10:00 ~ 18:00 Korean Standard Time 
 
 # Format
 
