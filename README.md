@@ -35,15 +35,15 @@ Detailed abstract and the biography of the speaker are linked from the title of 
 - 10:00 ~ 12:00  
   **Hamin Chang**	(SNU)  
   Gaussian process regression of dynamical systems  
-  (video link = TBA)  
+  (video link = [https://youtu.be/lmVLF71HFqw](https://youtu.be/lmVLF71HFqw))  
   
   **Soojeong Hyeon** (SNU)  
   Distributed orientation estimation in SO(n) with local position measurements  
-  (video link = TBA)  
+  (video link = [https://youtu.be/Mvzbu823gag](https://youtu.be/Mvzbu823gag))  
   
   **Jeong Mo Seong** (SNU)  
   Distributed quantile solver with plug-and-play operation  
-  (video link = TBA)
+  (video link = [https://youtu.be/F2VakXB0kwI](https://youtu.be/F2VakXB0kwI))
 
 ## Session 1
 Chair: Prof. Songhwai Oh (SNU)
