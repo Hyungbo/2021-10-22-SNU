@@ -121,7 +121,7 @@ But when we started organizing this program, we found there are three slots for 
 
 The participating students are from the lab of Prof. Dan Cho, Prof. Songhwai Oh, and Prof. Hyungbo Shim. We also thank all the participating students.
 
-We are also making use of the online program in the sense that the audience are not just from our department but from all around the country. The number of registration is 67 including people from Yonsei U, Korea U, Kwangwoon U, Kunkuk U, KAIST, GIST, DGIST and so on.
+We are also making use of the online program in the sense that the audience are not just from our department but from all around the country. The number of registration is 67 including people from Pusan U, Hanbat Nat'l U, Yonsei U, Korea U, Kwangwoon U, Konkuk U, Hanyang U, Myungji U, Sejong U, KAIST, GIST, DGIST and so on.
 
 Please enjoy the workshop.
 
