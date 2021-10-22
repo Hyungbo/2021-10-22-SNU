@@ -109,6 +109,23 @@ Chair: Prof. Hyungbo Shim (SNU)
 <img src="{{site.baseurl}}/image/NML.jfif" height="60"> &emsp; <img src="{{site.baseurl}}/image/RLLAB.jpg" height="60"> &emsp; <img src="{{site.baseurl}}/image/CDSL.jpg" height="60">
 
 
+# Remark from Organizers
+
+We welcome all of you to the GoGE Workshop on Optimization, Decision and AI. Here, GoGE stands for Group of Global Excellence.
+
+This is a program initiated by Department of Electrical and Computer Engineering of Seoul National University, and supported by Brain Korea program of the government.
+
+Brain Korea program is basically for fostering graduate students, and therefore, the main goal of today's program is the presentation of students' research outcomes.
+
+But when we started organizing this program, we found there are three slots for outside speakers. So we decided to make use of this opportunity to invite very well-known experties in the world. And now, we are very happy that we finally have three great scholars today. We thank Prof. Brunton, Prof. Li, and Prof. de Persis very much for accepting our invitation.
+
+The participating students are from the lab of Prof. Dan Cho, Prof. Songhwai Oh, and Prof. Hyungbo Shim. We also thank all the participating students.
+
+We are also making use of the online program in the sense that the audience are not just from our department but from all around the country. The number of registration is 67 including people from Yonsei U, Korea U, Kwangwoon U, Kunkuk U, KAIST, GIST, DGIST and so on.
+
+Please enjoy the workshop.
+
+
 # Zoometiquette
 
 Please help us to keep our meetings productive and professional, and kindly follow these simple virtual meeting etiquette rules and tips.
