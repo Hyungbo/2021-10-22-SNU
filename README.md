@@ -1,3 +1,6 @@
+Thank all of the attendees! 
+
+<img src="{{site.baseurl}}/photo.png" height="480">
 
 # Date and Time
 
